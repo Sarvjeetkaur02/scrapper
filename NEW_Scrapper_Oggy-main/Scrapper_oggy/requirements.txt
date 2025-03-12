@@ -1,0 +1,5 @@
+#sab ko install karlena warna chalegaa nahi , fir muje mat khena Chala Nahi Bhaiya  
+streamlit
+pandas
+pymongo
+requests
